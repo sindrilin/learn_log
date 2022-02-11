@@ -1,4 +1,7 @@
 # 2022年学习日志
+### 第3期
+* [@sindrilin](https://github.com/sindrilin)：[【2022-2-11 学习笔记】](https://github.com/sindrilin/studyNotes/blob/master/2022-2-11.md)
+
 ### 第2期
 * [@xuzhongping](https://github.com/xuzhongping)：[【CocoaPods Cache问题分析、修复和优化】](https://mp.weixin.qq.com/s/HFfzNICcOlx9uPqPOyTmHg)
 
